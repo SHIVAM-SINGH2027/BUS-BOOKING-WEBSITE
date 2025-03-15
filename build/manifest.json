@@ -1,15 +1,3 @@
-{
-  "short_name": "Bus Booking",
-  "name": "Bus Booking System",
-  "icons": [
-    {
-      "src": "favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
-    }
-  ],
-  "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:05b290211936e8cf1ffde662359ea700c24dc62acffe4342f74b51f9706754ee
+size 302
